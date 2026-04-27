@@ -1,5 +1,5 @@
 TMG 1.0 collapsed
-85 0
+85 72
 1 42.720548 -73.75276
 2 42.720567 -73.752401
 3 42.720482 -73.752444
@@ -85,3 +85,80 @@ TMG 1.0 collapsed
 83 42.71971 -73.751661
 84 42.719398 -73.751647
 85 42.719537 -73.751103
+0 1 Edge1
+1 2 Edge2
+2 3 Edge3
+3 4 Edge4
+4 81 Edge5
+4 6 Edge6
+6 7 Edge7
+7 8 Edge8
+7 54 Edge9
+7 65 Edge10
+65 83 Edge11
+83 82 Edge12
+82 81 Edge13
+83 84 Edge14
+54 8 Edge15
+54 55 Edge16
+55 56 Edge17
+56 53 Edge18
+56 57 Edge19
+56 59 Edge20
+59 55 Edge21
+59 58 Edge22
+59 60 Edge23
+58 60 Edge24
+57 58 Edge25
+60 62 Edge26
+62 63 Edge27
+63 64 Edge28
+64 55 Edge29
+64 65 Edge30
+8 9 Edge31
+9 11 Edge32
+9 10 Edge33
+11 10 Edge34
+11 12 Edge35
+12 8 Edge36
+12 53 Edge37
+58 46 Edge38
+46 45 Edge39
+46 61 Edge40
+61 44 Edge41
+44 43 Edge42
+45 43 Edge43
+46 45 Edge44
+62 61 Edge45
+46 44 Edge46
+43 33 Edge47
+33 31 Edge48
+31 30 Edge49
+30 35 Edge50
+35 37 Edge51
+37 36 Edge52
+36 29 Edge53
+29 28 Edge54
+32 28 Edge55
+32 29 Edge56
+31 32 Edge57
+28 26 Edge58
+32 27 Edge59
+26 25 Edge60
+26 24 Edge61
+27 26 Edge62
+27 24 Edge63
+25 24 Edge64
+24 23 Edge65
+23 22 Edge66
+22 21 Edge67
+21 49 Edge68
+49 22 Edge69
+49 27 Edge70
+49 20 Edge71
+20 48 Edge72
+
+
+
+
+
